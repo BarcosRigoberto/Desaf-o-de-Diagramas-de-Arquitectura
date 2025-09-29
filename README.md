@@ -7,8 +7,7 @@ Sin algunos componentes podrian faltar funciones esenciales para la presentacion
 - Backend contiene la gestion de los servicios tales como la gestion de usuarios, de niveles y lecciones y de evaluacion (Puntajes)
 - La base de datos es de donde se extraen las lecciones y usuarios registrados
 ## [Diagrama de Flujo](https://github.com/BarcosRigoberto/Desaf-o-de-Diagramas-de-Arquitectura/blob/main/Diagramas/Diagrama%20de%20Flujo.png)
-Este diagrama representa el funcionamiento de las lecciones de SeñApp incluyendo la logica de la cantidad de lecciones por nivel y la suma de puntos, esencial como guia para entender que sucede cada vez que un usuario entra a un nivel. 
-
+Este diagrama representa el funcionamiento de las lecciones de SeñApp incluyendo la logica de la cantidad de lecciones por nivel y la suma de puntos, esencial como guia para entender que sucede cada vez que un usuario entra a un nivel.
 Un buen sistema de niveles mejora la experiencia del usuario y permite una experiencia de aprendizaje fluida y sin estorbos, ademas de gratificante
 - Contiene entradas de datos
 - Muestra las consignas para mayor claridad
